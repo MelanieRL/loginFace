@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Mely/Downloads/Compressed/facebook-android-sdk-4.8.2/loginFace/facebook/res/values-xhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_picker_divider_width">2px</dimen>
+</resources>
